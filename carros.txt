@@ -1,0 +1,7 @@
+Ka;Ford;2018;49500.0
+Sandero;Renault;2010;23950.0
+Onix;Chevrolet;2020;89200.0
+Toro;Fiat;2022;212000.0
+Kwid;Renault;2021;54100.0
+Creta;Hyundai;2022;99800.0
+Prisma;Chevrolet;2018;75900.0
